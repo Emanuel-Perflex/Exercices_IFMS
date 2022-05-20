@@ -719,40 +719,6 @@ printf("%f \t%f \t%f \t%f \n", c1, c2, c3, c4);
 }
 }
 
-
-
-Conversa aberta. 4 mensagens. Todas as mensagens lidas.
-
-Pular para o conteúdo
-Como usar o E-mail de Instituto Federal de Mato Grosso do Sul com leitores de tela
-in:sent 
-21 de 41
-Atividade sobre vetores
-Caixa de entrada
-
-Emanuel Silva
-Anexosqui., 2 de dez. de 2021 19:38
-Aluno: Emanuel Oliveira Barbosa Da Silva Curso: TADS Unidade: IFMS Olá, boa noite Alex! Conforme solicitado em aula, segue em anexo as 3 atividades sobre vetore
-
-Alex F. de Araujo
-qui., 2 de dez. de 2021 22:21
-Opa. tudo bom Emanuel? Olhando o seu código faz muito sentido o que você fez, mas eu não consegui testar seu algoritmo pelos seguintes motivos: 1 - Você usou es
-
-Emanuel Silva <emanuel.silva5@estudante.ifms.edu.br>
-Anexos
-dom., 5 de dez. de 2021 04:32
-para Alex
-
-Opa Alex, sugestões acatadas! Segue o algoritmo com melhorias e otimizado
-
-Área de anexos
-
-Emanuel Silva <emanuel.silva5@estudante.ifms.edu.br>
-Anexos
-qui., 3 de mar. 21:15
-para André
-
-
 Área de anexos
 //Atividade1: Calcular a média de 3 notas, de acordo com alista encaminhada pelo professor utilizando vetor, para cada aluno e armazenar em um vetor para cada nota_1, nota_2 e nota_3 e apresentar o vetor média.
 //Atividade 2 - apresentar a situação final do aluno em aprovado nota >= 6, reprovado < 6
